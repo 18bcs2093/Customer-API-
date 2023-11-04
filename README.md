@@ -6,7 +6,9 @@ To use the model, the subscribers would send a request to the API with the custo
 This would print the following output:
 
 0.8
+
 0.7
+
 ['product_4', 'product_5', 'product_6']
 
 The subscribers could then use this information to improve their customer experience and increase their revenue. For example, they could send targeted marketing messages to customers who are likely to return to the store, or they could recommend products to customers based on their purchase history and the products that are most popular with similar customers.
